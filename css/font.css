@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../font/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ECL';
+    src: url('../font/S-CoreDream-3Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'TAEBAEKmilkyway';
+    src: url('../font/TAEBAEKmilkyway.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GM';
+    src: url('../font/GmarketSansMedium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
